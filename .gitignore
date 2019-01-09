@@ -5,3 +5,10 @@ dataset/
 etc/
 LICENSE.md
 .ipynb_checkpoints/
+
+# venv
+Lib/
+Scripts/
+pyvenv.cfg
+Include/
+pip-selfcheck.json
